@@ -1,0 +1,18 @@
+{
+  "name": "demo",
+  "version": "1.0.1",
+  "description": "demo project",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "demo"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Govind",
+  "license": "ISC"
+}
